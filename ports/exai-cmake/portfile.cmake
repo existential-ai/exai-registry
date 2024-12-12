@@ -1,6 +1,6 @@
 vcpkg_from_github(
   OUT_SOURCE_PATH SOURCE_PATH
-  REPO NYU-Processor-Design/nyu-cmake
+  REPO existential-ai/exai-cmake
   REF 7ddbf0c2ae6be450c191d640d77a458f68676666
   SHA512 7a24f53880ef99b6c4739b90d1106a2ca7241393054a9ab994efd9aa3d225b378a785100852ff953853058ec7ad17af92fa9f96a2d8a9623a913d7d016b4e1ea
   HEAD_REF main

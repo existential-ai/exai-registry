@@ -4,24 +4,16 @@
       "baseline": "1.1.0",
       "port-version": 0
     },
-    "nyu-amba": {
-      "baseline": "0.1.0",
-      "port-version": 0
-    },
-    "nyu-cmake": {
+    "exai-cmake": {
       "baseline": "1.2.0",
       "port-version": 0
     },
-    "nyu-util": {
+    "exai-util": {
       "baseline": "1.3.0",
       "port-version": 0
     },
-    "nyu-sync": {
+    "exai-sync": {
       "baseline": "1.0.0",
-      "port-version": 0
-    },
-    "purdnyuart": {
-      "baseline": "2.0.2",
       "port-version": 0
     }
   }

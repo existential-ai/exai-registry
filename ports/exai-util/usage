@@ -1,0 +1,4 @@
+The package exai-util provides CMake targets:
+
+    find_package(exai-util CONFIG REQUIRED)
+    target_link_libraries(target PRIVATE exai::covrecorder exai::testutil)

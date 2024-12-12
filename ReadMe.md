@@ -1,3 +1,3 @@
 # NYU Registry
 
-This is the NYU Processor Design Team's vcpkg registry
+This is the eXAI Design Team's vcpkg registry

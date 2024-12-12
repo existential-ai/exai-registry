@@ -1,0 +1,4 @@
+The package exai-sync provides CMake targets:
+
+    find_package(exai-sync CONFIG REQUIRED)
+    nyu_link_sv(target exai::sync)
