@@ -1,8 +1,8 @@
 {
   "name": "explore-verilog",
   "version": "1.1.0",
-  "description": "NYU Processor Design's Verilog Exploration Repo",
-  "homepage": "https://github.com/NYU-Processor-Design/explore-verilog",
+  "description": " Verilog Exploration Repo",
+  "homepage": "https://github.com/existential-ai/explore-verilog",
   "maintainers": [
     "Vito Gamberini <vito@gamberini.email>"
   ],
@@ -17,7 +17,7 @@
       "host": true
     },
     {
-      "name": "nyu-cmake"
+      "name": "exai-cmake"
     }
   ]
 }
