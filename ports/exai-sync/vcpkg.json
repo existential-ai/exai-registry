@@ -1,8 +1,8 @@
 {
-  "name": "nyu-sync",
+  "name": "exai-sync",
   "version": "1.0.0",
-  "description": "NYU Sync",
-  "homepage": "https://github.com/nickelpro/nyu-sync",
+  "description": "Exai Sync",
+  "homepage": "https://github.com/existential-ai/exai-sync",
   "maintainers": [],
   "license": "CC0-1.0",
   "dependencies": [
@@ -15,7 +15,7 @@
       "host": true
     },
     {
-      "name": "nyu-cmake"
+      "name": "exai-cmake"
     }
   ]
 }
