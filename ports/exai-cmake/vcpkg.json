@@ -1,8 +1,8 @@
 {
-  "name": "nyu-cmake",
+  "name": "exai-cmake",
   "version": "1.2.0",
-  "description": "NYU Processor Design's CMake function repo",
-  "homepage": "https://github.com/NYU-Processor-Design/nyu-cmake",
+  "description": " Design's CMake function repo",
+  "homepage": "https://github.com/existential-ai/exai-cmake",
   "maintainers": [
     "Vito Gamberini <vito@gamberini.email>"
   ],
