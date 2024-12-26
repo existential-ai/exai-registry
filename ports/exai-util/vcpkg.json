@@ -1,9 +1,9 @@
 {
-  "name": "nyu-util",
+  "name": "exai-util",
   "version": "1.3.0",
   "port-version": 0,
-  "description": "NYU Processor Design's Utilities",
-  "homepage": "https://github.com/NYU-Processor-Design/nyu-util",
+  "description": " Design's Utilities",
+  "homepage": "https://github.com/existential-ai/exai-util",
   "maintainers": [
     "Vito Gamberini <vito@gamberini.email>"
   ],
